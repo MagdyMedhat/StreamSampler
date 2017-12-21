@@ -1,0 +1,4 @@
+1) Make sure you run composer update (project is using php 5.5)
+2) you have both usages:
+php sampler.php -i input.txt -l 5
+php sampler.php -r -l 5
